@@ -1,1 +1,2 @@
 This is a nginx server config file
+we can also use apache for hosting
